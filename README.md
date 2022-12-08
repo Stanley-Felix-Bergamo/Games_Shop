@@ -1,9 +1,10 @@
 # Games Shop
 
+<p>Saiba mais acessando o site <a href="https://stanley-felix-bergamo.github.io/Games_Shop/">Clicando aki</a></p> 
 
 <h2>👨‍🏫 Créditos</h2>
 <p>
-Este projeto foi realizado nas aulas do Curso de Profissão: Engenheiro Front-end, da <a href="https://ebaconline.com.br/cursos">Ebac</a>.
+      Este projeto foi realizado nas aulas do Curso de Profissão: Engenheiro Front-end, da <a href="https://ebaconline.com.br/cursos">Ebac</a>.
 </p>
 
 <h2>💻 Tecnologias utilizadas</h2>
