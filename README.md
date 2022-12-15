@@ -1,6 +1,9 @@
 # Games Shop
-
+<p>Landing page de uma loja de games</p>
 <p>Saiba mais acessando o site <a href="https://stanley-felix-bergamo.github.io/Games_Shop/">Clicando aki</a></p> 
+<div align="center" >
+<img src="https://raw.githubusercontent.com/Stanley-Felix-Bergamo/Games_Shop/main/images/mac.png" alt="Emoji triste">
+</div>
 
 <h2>👨‍🏫 Créditos</h2>
 <p>
